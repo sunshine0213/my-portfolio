@@ -20,7 +20,7 @@ export const RecentProjectData = [
     detail:
       'React, Typescript, Material UI, SCSS, Flex, Figma',
     image: process.env.PUBLIC_URL + '/images/portfolio_thumb.png',
-    buttons: [{ label: 'Demo', link: 'https://sunshine0213.github.io/sundevpf/' }, { label: 'Code', link: 'https://github.com/sunshine0213/sundevpf' }],
+    buttons: [{ label: 'Demo', link: 'https://sunshine0213.github.io/my-portfolio/' }, { label: 'Code', link: 'https://github.com/sunshine0213/my-portfolio' }],
   },
   {
     title: 'Country Info',

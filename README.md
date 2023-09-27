@@ -1,4 +1,4 @@
-# My Full stack developer's portfolio [Live link](https://sunshine0213.github.io/sundevpf/)
+# My Full stack developer's portfolio [Live link](https://sunshine0213.github.io/my-portfolio/)
 - Designed & Developed by [sunshine](https://github.com/sunshine0213)
 
 ### Sections
@@ -26,7 +26,7 @@
 
 ### How to run Local
 - Clone the repository
-    - git clone https://github.com/sunshine0213/sundevpf.git
+    - git clone https://github.com/sunshine0213/my-portfolio.git
 - Get dependency
     - yarn add gh-pages && npm install gh-pages — save-dev | node version 16.20.0
 - run

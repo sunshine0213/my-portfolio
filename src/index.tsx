@@ -12,7 +12,7 @@ ReactGA.initialize(TRACKING_ID)
 ReactGA.pageview(window.location.pathname)
 
 ReactDOM.render(
-	<BrowserRouter basename="/sundevpf">
+	<BrowserRouter basename="/my-portfolio">
 		<App />
 	</BrowserRouter>,
 	document.getElementById("root"),
