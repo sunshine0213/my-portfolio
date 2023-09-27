@@ -1,7 +1,7 @@
 {
   "name": "sundev-portfolio",
   "version": "0.1.0",
-  "homepage": "https://sunshine0213.github.io/sundevpf",
+  "homepage": "https://sunshine0213.github.io/my-portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
