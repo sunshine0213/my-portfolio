@@ -12,7 +12,7 @@ export const Banner = () => {
 			<div className="banner__container">
 				<div className="banner__content">
 					<h3>HELLO, I’M KYLE JOHNSON</h3>
-					<h1>Full Stack Developer</h1>
+					<h1>Full Stack and Blockchain Developer</h1>
 					<h5>
 						I’m a Helsinki-based full-stack developer focused on writing code
 						that makes an{" "}
