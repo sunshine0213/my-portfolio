@@ -14,7 +14,7 @@ export const Banner = () => {
 					<h3>HELLO, I’M KYLE JOHNSON</h3>
 					<h1>Full Stack and Blockchain Developer</h1>
 					<h5>
-						I’m a Helsinki-based full-stack developer focused on writing code
+						I’m a Québec-based full-stack and blockchain developer focused on writing code
 						that makes an{" "}
 						<span className="text-highlight">impact on users.</span> I have also
 						gained experience as a consultant,
@@ -32,7 +32,8 @@ export const Banner = () => {
 						Make videos on{" "}
 						<a
 							className="github"
-							href="https://www.youtube.com/channel/UCKtcuEBjG-8T1HDrpuAprww/videos"
+							// href="https://www.youtube.com/channel/UCKtcuEBjG-8T1HDrpuAprww/videos"
+							href="https://www.youtube.com/channel/UCKtcuEBjG-8T1HDrpuAprwwwwwwwww/videos"
 							target="_blank"
 							rel="noopener noreferrer">
 							Sunshineweb.
@@ -40,7 +41,8 @@ export const Banner = () => {
 						And write articles on{" "}
 						<a
 							className="github"
-							href="https://bikashxsharma.medium.com/"
+							// href="https://bikashxsharma.medium.com/"
+							href="https://bikashxsharmaaaaaa.medium.com/"
 							target="_blank"
 							rel="noopener noreferrer">
 							Medium.

@@ -69,7 +69,7 @@ const Navbar = () => {
 								<a
 									href={
 										process.env.PUBLIC_URL +
-										"/images/Kyle_Johnson_Resume_o.pdf"
+										"/images/Kyle-cn.pdf"
 									}
 									rel="noopener noreferrer"
 									target="_blank">
